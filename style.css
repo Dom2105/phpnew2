@@ -1,0 +1,15 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+p {
+    background-color: darkblue;
+}
+
+button {
+    border: 1px black solid;
+    border-radius: 50px;
+    background-color: blueviolet;
+    color: black;
+}
